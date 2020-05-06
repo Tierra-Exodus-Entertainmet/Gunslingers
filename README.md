@@ -1,2 +1,2 @@
 # Gunslingers
-A local networked multiplayer game.
+A Local Networked Multiplayer Game.
