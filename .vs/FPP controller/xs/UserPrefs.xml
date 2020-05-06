@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C241AB25-1875-75FA-AC8A-7DD00A13A77E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Weapon/WeaponShoot.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TagHolder/TagHolder.cs" Line="24" Column="45" />
+      <File FileName="Assets/Scripts/Camera/CameraFollow.cs" />
+      <File FileName="Assets/Scripts/Camera/MouseLook.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerInput.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerController.cs" />
+      <File FileName="Assets/Scripts/Weapon/WeaponShoot.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f02d6b5f-a7b5-407e-8693-3c6f5deffde8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
